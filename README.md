@@ -103,8 +103,7 @@ Here we discuss how one can investigate crypto hacks and security incidents, and
 | OSINT Tools UK | https://github.com/paulpogoda/OSINT-Tools-UK | A list of OSINT resources and tools that may be useful to you when conducting investigations related to The United Kingdom | 
 | OSINT Tools USA | https://github.com/paulpogoda/OSINT-Tools_USA | A list of OSINT resources and tools that may be useful to you when conducting investigations related to the United States of America. This repository contains verified, working links to official government databases and publicly accessible resources organized according to the OSINT-for-Countries-V2.0 framework | 
 | OSINT Tools Uzbekistan | https://github.com/paulpogoda/OSINT-Tools-Uzbekistan | A list of sources for OSINT in Uzbekistan | 
-| OSINTSummit 2023 Resources
- | https://github.com/ranlo/osintsummit-2023-resources | A categorized list of resources presented during the 2023 Sans OSINTSummit | 
+| OSINTSummit 2023 Resources |  https://github.com/ranlo/osintsummit-2023-resources | A categorized list of resources presented during the 2023 Sans OSINTSummit |
 | People OSINT | https://github.com/The-Osint-Toolbox/People-Search-OSINT | Search tools to help you find people, focused towards UK resources. | 
 | Social Media OSINT | https://github.com/The-Osint-Toolbox/Social-Media-OSINT | Social Media OSINT collection containing - tools, techniques & tradecraft. | 
 | Social Media Osint | https://github.com/dheerajydv19/Social-Media-Osint | Collection of Most Useful tools for Social Media Intelligence | 
