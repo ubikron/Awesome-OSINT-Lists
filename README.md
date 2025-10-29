@@ -119,6 +119,24 @@ Here we discuss how one can investigate crypto hacks and security incidents, and
 | Wifi OSINT | https://github.com/The-Osint-Toolbox/WiFi-OSINT | Some great Wifi, resources, tools and blogs if Wi-Fi OSINT is your thing. | 
 | YouTube Video OSINT | https://github.com/The-Osint-Toolbox/YouTube-Video-OSINT | Mainly YouTube, tools, techniques & tradecraft OSINT resources. | 
 
+## No Github lists
+
+| Name | Link| Description | 
+| --- | --- | --- |
+| OSINT Tools and Resources Handbook | https://www.osinthandbook.com/ | List of OSINT resources by I-Intelligence. | 
+| UK-OSINT | https://uk-osint.net/index.html | List of OSINT resources by UK-OSINT. | 
+| Ultimate OSINT Collection | https://start.me/p/DPYPMz/the-ultimate-osint-collection | Start.me page by Hatless1der. | 
+| OSINT Navigator | https://osint.nova-saas.com/ | Advanced tools and AI-powered recommendations for cybersecurity researchers and digital investigators | 
+| OSINT Link | https://osint.link/ | List of OSINT tools and resources by Nihad Nassan. | 
+| OHSHINT GitBook | https://ohshint.gitbook.io/oh-shint-its-a-blog/osint-web-resources/imagery-intelligence-imint | OH SHINT blog and OSINT resources list. | 
+| OSINT Framework | https://osintframework.com/ | List of OSINT tools in tree form by Jnordine. | 
+| IHUNT OSINT Framework | https://nitinpandey.in/ihunt/ | OSINT tools collection by Nitin Pandey. | 
+| Cyber Threat Intelligence | https://start.me/p/wMrA5z/cyber-threat-intelligence | Start.me page by Infosecn1nja. | 
+| Commander Girl's suggestions | https://start.me/p/1kJKR9/commandergirl-s-suggestions | Collection of tools by Commander Girl. | 
+| R00M 101 OSINT Tools Directory | https://r00m101.com/tools | Directory of OSINT Tools by 101R00M. | 
+| Digital Forensics StartMe Page  | https://start.me/p/1kRlPp/forensics | Start.me page by Dilon Bowe. | 
+| Malfrat OSINT Map | https://map.malfrats.industries/ | List of OSINT tools in tree form by  Malfrat Industries. | 
+
 
 ## Ubikron Github Lists
 
@@ -128,7 +146,6 @@ You can also find lists of OSINT tools on our Github profile. There are only two
 | --- | --- | --- |
 | Awesome AI OSINT | https://github.com/ubikron/Awesome-AI-OSINT | A list of articles, videos, and tools related to the use of AI for OSINT. |
 | Chrome Extensions for OSINT | https://github.com/ubikron/awesome-osint-chrome-extensions | Often, much of the OSINT analyst's work is done using a browser. And sometimes it consists only of endless data search on different sites. This repository contains extensions for Chrome/Brave that will help make this process more comfortable and efficient.|
-
 
 
 -----
