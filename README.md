@@ -105,6 +105,7 @@ Here we discuss how one can investigate crypto hacks and security incidents, and
 | OSINT Tools Uzbekistan | https://github.com/paulpogoda/OSINT-Tools-Uzbekistan | A list of sources for OSINT in Uzbekistan | 
 | OSINTSummit 2023 Resources |  https://github.com/ranlo/osintsummit-2023-resources | A categorized list of resources presented during the 2023 Sans OSINTSummit |
 | People OSINT | https://github.com/The-Osint-Toolbox/People-Search-OSINT | Search tools to help you find people, focused towards UK resources. | 
+| rapid7_OSINT | https://github.com/tg12/rapid7_OSINT | A curated collection of OSINT tools and data sources for making sense of public data. |
 | Social Media OSINT | https://github.com/The-Osint-Toolbox/Social-Media-OSINT | Social Media OSINT collection containing - tools, techniques & tradecraft. | 
 | Social Media Osint | https://github.com/dheerajydv19/Social-Media-Osint | Collection of Most Useful tools for Social Media Intelligence | 
 | Social Media OSINT Tools Collection | https://github.com/osintambition/Social-Media-OSINT-Tools-Collection | A collection of most useful osint tools for SOCINT | 
