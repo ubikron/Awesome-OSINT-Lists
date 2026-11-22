@@ -136,6 +136,7 @@ Here we discuss how one can investigate crypto hacks and security incidents, and
 | R00M 101 OSINT Tools Directory | https://r00m101.com/tools | Directory of OSINT Tools by 101R00M. | 
 | Digital Forensics StartMe Page  | https://start.me/p/1kRlPp/forensics | Start.me page by Dilon Bowe. | 
 | Malfrat OSINT Map | https://map.malfrats.industries/ | List of OSINT tools in tree form by  Malfrat Industries. | 
+| FreeUsername OSINT Tools | https://freeusername.com/osint-tools/ | Comparison hub for username enumeration tools, with coverage and method notes for each. | 
 
 
 ## Ubikron Github Lists
